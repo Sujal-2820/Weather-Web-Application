@@ -5,7 +5,7 @@ body{
     height: 100vh;
     margin: 0;
     font-family:monospace, sans-serif;
-    background: url("images/L1.jpg") no-repeat 50% 50% ;
+    background: url("./images/L1.jpg") no-repeat 50% 50% ;
     backdrop-filter: blur(1.5px);
 }
 
